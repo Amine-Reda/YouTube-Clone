@@ -1,3 +1,12 @@
+# YouTube Clone with React.js and Firebase
+
+### ----> [Live Site](https://clone-83d2f.web.app//)
+
+![youtubeClone](assets/youtubeClone1.png)
+
+![AmazonClone](assets/youtubeClone2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
